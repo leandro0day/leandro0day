@@ -21,3 +21,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=leandro0day&" alt="leandro0day" /></p>
 
+![github-contribution-grid-snake](https://github.com/user-attachments/assets/b22c905c-c24a-4a94-a929-a30eddd446cd)
