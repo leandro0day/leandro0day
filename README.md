@@ -8,7 +8,7 @@
 
 ---
 
-## �‍💻 About Me
+## 💻 About Me
 
 ```javascript
 const leandro = {
@@ -44,16 +44,6 @@ const leandro = {
 
 </div>
 
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=leandro0day&theme=tokyonight&no-frame=true&no-bg=false&margin-w=10&row=1" alt="GitHub Trophies"/>
-</div>
-
----
-
 ## 🛠️ Tech Stack
 
 <div align="center">
@@ -88,18 +78,6 @@ const leandro = {
 
 </div>
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=leandro0day&show_icons=true&count_private=true&hide_border=true&title_color=6AD3F7&icon_color=6AD3F7&text_color=c9d1d9&bg_color=0d1117" alt="Leandro Matus github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandro0day&layout=compact&hide_border=true&title_color=6AD3F7&text_color=c9d1d9&bg_color=0d1117" />
-</div>
-
-<div align="center">
-  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=leandro0day&theme=tokyonight_duo&hide_border=true&stroke=0000&background=0D1117&ring=6AD3F7&fire=6AD3F7&currStreakLabel=6AD3F7" alt="leandro0day" />
-</div>
 
 ---
 
